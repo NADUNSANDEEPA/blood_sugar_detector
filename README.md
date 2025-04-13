@@ -1,1 +1,1 @@
-# blood_sugar_detector
+# nutria_blood_sugar_detector
